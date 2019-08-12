@@ -33,6 +33,7 @@ function johnLennonFacts(array_facts){
 
 function iLoveTheBeatles(number){
   var local_array = [];
+  var local_number = number;
   do {
     
   };
