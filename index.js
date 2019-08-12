@@ -11,10 +11,11 @@ function theBeatlesPlay(array_musicians, array_instr)
     
     temp.concat(temp2, temp3);
     
-    
+    local_array.push(temp);
     
   }
   
+  return local_array;
 }
 
 function johnLennonFacts(array_facts){
