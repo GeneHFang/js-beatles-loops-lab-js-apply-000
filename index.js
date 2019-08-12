@@ -40,5 +40,5 @@ function iLoveTheBeatles(number){
     local_array.push(beatleLove);
     local_number++;
     difference++;
-  }(while local_number < 15);
+  }while (local_number < 15);
 }
