@@ -2,6 +2,8 @@
 
 function theBeatlesPlay(array_musicians, array_instr)
 {
+  var local_array = [];
+  
   
 }
 
