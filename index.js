@@ -34,7 +34,9 @@ function johnLennonFacts(array_facts){
 function iLoveTheBeatles(number){
   var local_array = [];
   var local_number = number;
+  var difference = 0;
   do {
-    
-  };
+    local_number++;
+    difference++;
+  }(while local_number < 15);
 }
