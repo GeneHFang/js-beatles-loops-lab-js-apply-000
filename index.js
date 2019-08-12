@@ -20,7 +20,17 @@ function theBeatlesPlay(array_musicians, array_instr)
 
 function johnLennonFacts(array_facts){
   var i = 0;
+  var local_array = [];
   while(i < array_facts.length){
+    var temp = array_facts[i] + "!!!";
     
+    local_array.push(temp);
+    i++;
   }
+  
+  return local_array;
+}
+
+function iLoveTheBeatles(number){
+  
 }
