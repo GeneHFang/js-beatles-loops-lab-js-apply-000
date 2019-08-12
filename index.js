@@ -36,6 +36,8 @@ function iLoveTheBeatles(number){
   var local_number = number;
   var difference = 0;
   do {
+    var beatleLove = "I love the Beatles!";
+    local_array.push(beatleLove);
     local_number++;
     difference++;
   }(while local_number < 15);
