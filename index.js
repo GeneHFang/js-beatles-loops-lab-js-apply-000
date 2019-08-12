@@ -19,5 +19,8 @@ function theBeatlesPlay(array_musicians, array_instr)
 }
 
 function johnLennonFacts(array_facts){
-  
+  var i = 0;
+  while(i < array_facts.length){
+    
+  }
 }
