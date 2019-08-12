@@ -34,11 +34,13 @@ function johnLennonFacts(array_facts){
 function iLoveTheBeatles(number){
   var local_array = [];
   var local_number = number;
-  var difference = 0;
+  //var difference = 0;
   do {
     var beatleLove = "I love the Beatles!";
     local_array.push(beatleLove);
     local_number++;
-    difference++;
+    //difference++;
   }while (local_number < 15);
+  
+  return local_array;
 }
